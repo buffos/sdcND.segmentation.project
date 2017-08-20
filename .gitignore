@@ -101,3 +101,8 @@ ENV/
 .mypy_cache/
 
 RUNS/
+
+.idea
+checkpoints
+runs
+logs
